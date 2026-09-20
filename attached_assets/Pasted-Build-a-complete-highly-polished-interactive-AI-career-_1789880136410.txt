@@ -1,0 +1,1543 @@
+Build a complete, highly polished, interactive AI career-readiness web application called:
+
+SKILLGAP AI
+
+TAGLINE:
+“Know. Learn. Build. Prove. Get Ready.”
+
+CORE CONCEPT:
+SkillGap AI is an AI-powered Opportunity Readiness Platform for students.
+
+The visual identity of the entire website should represent a transformation:
+
+A confused/unprepared student enters the SkillGap AI portal →
+their profile, resume, GitHub and projects are analyzed →
+Skill gaps and evidence gaps are identified →
+they receive personalized learning resources →
+they practice →
+build projects →
+prove their skills →
+reassess →
+and finally walk out of the portal as a more confident, opportunity-ready candidate.
+
+The website must feel like a premium AI startup product, not a generic resume analyzer.
+
+==================================================
+1. VISUAL STORY / BRAND CONCEPT
+==================================================
+
+Use the main visual metaphor:
+
+“THE SKILLGAP PORTAL”
+
+BEFORE:
+• Dark environment
+• Confused student
+• Scattered books/files
+• Missing skills
+• No clear direction
+• Uncertain career path
+• Broken/empty progress indicators
+
+PORTAL:
+• Glowing futuristic doorway
+• AI analysis
+• Skill mapping
+• Learning paths
+• Projects
+• Assessments
+• Evidence
+• Progress
+
+AFTER:
+• Bright environment
+• Confident student
+• Laptop/project portfolio
+• Completed skills
+• GitHub projects
+• Strong progress
+• Opportunity readiness
+• Clear career direction
+
+The portal represents SkillGap AI transforming:
+
+CONFUSED → AWARE → LEARNING → PRACTICING → PROVING → READY
+
+Use this concept throughout the website.
+
+==================================================
+2. LANDING PAGE
+==================================================
+
+Create an extraordinary cinematic landing page.
+
+HEADER:
+
+Logo:
+SkillGap AI
+
+Navigation:
+Home
+How It Works
+Features
+Resources
+Opportunities
+About
+
+Right side:
+Theme toggle
+Sign In
+Get Started
+
+Hero:
+
+LEFT SIDE:
+Small badge:
+“AI-POWERED OPPORTUNITY READINESS”
+
+Headline:
+
+“Stop guessing if you're ready.”
+
+Gradient second line:
+
+“Know exactly what to learn, build and prove.”
+
+Description:
+
+“SkillGap AI analyzes your profile, resume, projects and GitHub against a real internship or job opportunity and creates a personalized path to become opportunity-ready.”
+
+Buttons:
+
+“Check My Readiness →”
+“Explore the Journey”
+
+RIGHT SIDE:
+
+Create a large cinematic portal scene.
+
+Show:
+
+A dull/confused student entering from the dark side.
+
+The student passes through a glowing SkillGap AI portal.
+
+On the other side:
+a confident student carrying a laptop/backpack with project cards floating around them.
+
+Floating UI cards:
+
+“78% Opportunity Readiness”
+
+“3 Priority Skills”
+
+“Machine Learning”
+“Model Evaluation”
+“Deployment”
+
+“5 Skills Demonstrated”
+
+“GitHub Evidence ✓”
+
+“Project Evidence ✓”
+
+“Assessment Passed ✓”
+
+“Learning Progress 72%”
+
+Animate these cards subtly.
+
+==================================================
+3. HERO ANIMATION
+==================================================
+
+When the landing page loads:
+
+1. Dark side appears first.
+2. Student slowly walks toward the portal.
+3. Portal begins glowing.
+4. Missing-skill cards appear.
+5. Portal opens.
+6. Light expands outward.
+7. Student walks through.
+8. Scene transitions from dark to bright.
+9. Skill/project/evidence cards appear.
+10. Readiness dashboard animates in.
+11. CTA becomes active.
+
+Use smooth cinematic transitions.
+
+Do NOT make animations excessive or distracting.
+
+==================================================
+4. LANDING PAGE SECTIONS
+==================================================
+
+After hero:
+
+SECTION 1:
+“Your problem isn't lack of information.”
+
+Show cards:
+
+“I don't know what skills I need.”
+“I don't know what I'm missing.”
+“There are too many courses.”
+“I don't know what to learn first.”
+“I know the skill, but can't prove it.”
+“I don't know what project to build.”
+
+Then transition these into:
+
+“SkillGap AI turns confusion into a clear action plan.”
+
+--------------------------------------------------
+
+SECTION 2:
+“From confused to opportunity-ready”
+
+Create a horizontal animated journey:
+
+ANALYZE
+↓
+FIND GAPS
+↓
+LEARN
+↓
+PRACTICE
+↓
+PROVE
+↓
+GET READY
+
+Each stage expands when hovered.
+
+--------------------------------------------------
+
+SECTION 3:
+“More than a Resume Analyzer”
+
+Show six cards:
+
+Opportunity Analysis
+Skill Gap Detection
+Evidence Analysis
+Personalized Learning
+Practical Projects
+Skill Assessment
+
+--------------------------------------------------
+
+SECTION 4:
+“Your entire readiness journey in one place”
+
+Animated dashboard preview.
+
+--------------------------------------------------
+
+SECTION 5:
+“Learn exactly what matters”
+
+Show trusted resources:
+
+Microsoft Learn
+Google ML Crash Course
+Kaggle Learn
+Hugging Face
+MDN
+freeCodeCamp
+GitHub Skills
+AWS Skill Builder
+Official Documentation
+
+Clearly indicate:
+FREE / FREEMIUM / PAID
+
+Never falsely label paid resources as free.
+
+--------------------------------------------------
+
+SECTION 6:
+“Build proof, not just knowledge.”
+
+Show practical project cards.
+
+Example:
+
+Skill:
+Machine Learning
+
+Learn:
+Model evaluation
+
+Build:
+Binary classification project
+
+Prove:
+GitHub + assessment + practical submission
+
+--------------------------------------------------
+
+SECTION 7:
+Final CTA
+
+“Your next opportunity shouldn't be a guessing game.”
+
+Button:
+“Enter SkillGap AI →”
+
+==================================================
+5. SIGN UP / FIRST-TIME USER ONBOARDING
+==================================================
+
+When the user clicks:
+
+“Get Started”
+
+Show a beautiful portal-entry transition.
+
+Instead of immediately showing a generic registration form, create a multi-step onboarding experience.
+
+Step 1:
+ACCOUNT
+
+Ask:
+
+Full Name
+Email
+Password
+
+Optional:
+Profile Photo
+
+--------------------------------------------------
+
+STEP 2:
+EDUCATION
+
+Ask:
+
+College/University
+Degree
+Branch / Specialization
+Current Year
+Expected Graduation Year
+CGPA / Percentage (optional)
+
+Example:
+
+B.Tech
+Computer Science
+AI & Data Science
+2nd Year
+2029
+
+--------------------------------------------------
+
+STEP 3:
+CAREER GOAL
+
+Ask:
+
+Target Career Role
+
+Examples:
+
+AI/ML Engineer
+Data Scientist
+Data Analyst
+Software Developer
+Full Stack Developer
+Backend Developer
+Frontend Developer
+Cloud Engineer
+Cybersecurity
+Generative AI Engineer
+Data Engineer
+Other
+
+Allow multiple target roles.
+
+--------------------------------------------------
+
+STEP 4:
+TARGET OPPORTUNITIES
+
+Ask:
+
+“What are you preparing for?”
+
+Internship
+Job
+Hackathon
+Placement
+Higher Studies
+Freelance
+
+Allow:
+
+Company name
+Role
+Job description
+Official opportunity URL
+
+User can skip this and add it later.
+
+--------------------------------------------------
+
+STEP 5:
+CURRENT SKILLS
+
+Allow users to select/add:
+
+Programming
+Python
+Java
+C/C++
+JavaScript
+HTML/CSS
+
+AI/ML
+Machine Learning
+Deep Learning
+NLP
+Generative AI
+Computer Vision
+
+Data
+SQL
+Data Analytics
+Statistics
+
+Development
+React
+Node.js
+FastAPI
+MongoDB
+PostgreSQL
+
+Cloud
+AWS
+Azure
+GCP
+
+Tools
+Git
+GitHub
+Docker
+etc.
+
+Every skill should have:
+
+Beginner
+Intermediate
+Advanced
+
+--------------------------------------------------
+
+STEP 6:
+PROJECTS
+
+Allow:
+
+Project Name
+Description
+Technologies
+GitHub URL
+Live URL
+Project type
+Your contribution
+
+Allow multiple projects.
+
+--------------------------------------------------
+
+STEP 7:
+EXPERIENCE
+
+Internships
+Work experience
+Hackathons
+Open-source contributions
+Certifications
+Achievements
+
+Each can contain:
+
+Title
+Organization
+Description
+Skills used
+URL/evidence
+
+--------------------------------------------------
+
+STEP 8:
+GITHUB
+
+Allow user to connect/add:
+
+GitHub username
+GitHub profile URL
+
+Button:
+
+“Analyze My GitHub”
+
+Analyze publicly available:
+
+Repositories
+Languages
+Commit activity
+README quality
+Project topics
+Technologies
+Project descriptions
+Repository activity
+Documentation
+Contributions where accessible
+
+Map repositories to skills.
+
+Example:
+
+Repository:
+Kisan Mitra
+
+Detected:
+Python ✓
+MongoDB ✓
+API Integration ✓
+AI ✓
+Deployment ✓
+
+IMPORTANT:
+Never claim a skill only because a repository contains a language.
+Use repository context and evidence.
+
+--------------------------------------------------
+
+STEP 9:
+RESUME
+
+Upload:
+
+PDF
+DOC/DOCX
+
+AI extracts:
+
+Skills
+Education
+Projects
+Experience
+Internships
+Certifications
+Achievements
+Technologies
+
+Allow:
+
+“Edit extracted information”
+
+Never invent missing information.
+
+--------------------------------------------------
+
+STEP 10:
+LEARNING PREFERENCES
+
+Ask:
+
+Available time:
+
+3 Days
+1 Week
+2 Weeks
+1 Month
+3 Months
+6 Months
+
+Learning preference:
+
+Fast Track
+Practical Learning
+Deep Learning
+Interview Preparation
+
+Preferred learning format:
+
+Videos
+Documentation
+Interactive Courses
+Projects
+Practice Problems
+Mixed
+
+--------------------------------------------------
+
+6. PROFILE PAGE
+==================================================
+
+After onboarding:
+
+Transition through the SkillGap portal.
+
+Show:
+
+PROFILE
+
+Profile completion:
+82%
+
+Profile strength should NOT be presented as hiring probability.
+
+Show:
+
+Education
+Career Goals
+Skills
+Projects
+Experience
+Certifications
+GitHub
+Resume
+Learning Preferences
+
+Buttons:
+
+Edit Profile
+Add Skill
+Add Project
+Upload Resume
+Connect GitHub
+Add Opportunity
+
+--------------------------------------------------
+7. PROFILE PROGRESS
+==================================================
+
+Create a circular profile-progress visualization.
+
+Example:
+
+82%
+
+Profile completeness
+
+Checklist:
+
+✓ Personal details
+✓ Education
+✓ Skills
+✓ Resume
+✓ Projects
+✓ GitHub
+
+△ Add certifications
+△ Add project evidence
+
+--------------------------------------------------
+8. GITHUB ANALYZER
+==================================================
+
+Create a dedicated GitHub analysis page.
+
+Header:
+
+“Turn your GitHub into skill evidence.”
+
+Show:
+
+Repositories analyzed
+Languages
+Technologies
+Project quality
+Documentation
+Activity
+Skill evidence
+
+Cards:
+
+Python
+Strong evidence
+
+JavaScript
+Moderate evidence
+
+Machine Learning
+Project evidence
+
+Deployment
+Limited evidence
+
+Show repository-to-skill mapping.
+
+Example:
+
+Kisan Mitra
+↓
+Python
+MongoDB
+API Integration
+AI
+Deployment
+
+Portfolio
+↓
+HTML
+CSS
+JavaScript
+Responsive Design
+
+--------------------------------------------------
+9. RESUME ANALYZER
+==================================================
+
+Show:
+
+Resume Summary
+Detected Skills
+Projects
+Experience
+Education
+Certifications
+
+Compare resume evidence with GitHub evidence.
+
+Example:
+
+Python:
+Resume ✓
+GitHub ✓
+Assessment △
+Practical Evidence ✓
+
+This becomes:
+
+“Demonstrated Skill”
+
+rather than simply:
+
+“Skill Found”
+
+==================================================
+10. OPPORTUNITY ANALYZER
+==================================================
+
+Main CTA:
+
+“Analyze an Opportunity”
+
+Inputs:
+
+Paste Job Description
+OR
+Official Opportunity URL
+
+Extract:
+
+Role
+Company
+Responsibilities
+Required skills
+Preferred skills
+Technologies
+Knowledge requirements
+
+Show:
+
+REQUIRED
+PREFERRED
+RESPONSIBILITIES
+
+Every requirement must originate from the supplied opportunity.
+
+Never hallucinate requirements.
+
+==================================================
+11. READINESS DASHBOARD
+==================================================
+
+Create a beautiful command-center interface.
+
+Top:
+
+Target Opportunity
+
+“AI/ML Intern — Example Company”
+
+Main metrics:
+
+Requirement Coverage
+78%
+
+Evidence Coverage
+65%
+
+Assessment Coverage
+52%
+
+Practical Demonstration
+40%
+
+Do NOT represent these as probability of selection.
+
+--------------------------------------------------
+
+Show:
+
+Strong Skills
+Partial Skills
+Missing Skills
+Evidence Gaps
+Readiness Gaps
+
+--------------------------------------------------
+
+Top 3 priorities:
+
+1. Model Evaluation
+2. Deployment
+3. Advanced Machine Learning
+
+Each has:
+
+Current Level
+Required Level
+Why It Matters
+Recommended Action
+
+==================================================
+12. SKILL DETAIL PAGE
+==================================================
+
+Click a skill.
+
+Example:
+
+MACHINE LEARNING
+
+Required:
+Intermediate
+
+Current:
+Beginner+
+
+Evidence:
+2 projects
+
+Assessment:
+62%
+
+Practical:
+Not completed
+
+Show:
+
+WHAT YOU KNOW
+WHAT YOU ARE MISSING
+WHY IT MATTERS
+HOW TO LEARN
+WHAT TO BUILD
+HOW TO PROVE IT
+
+==================================================
+13. LEARNING PLAN
+==================================================
+
+Based on:
+
+Target opportunity
+Skill gap
+Current level
+Available time
+Learning preference
+
+Generate:
+
+3-day
+7-day
+1-month
+3-month
+6-month
+
+plans.
+
+Example:
+
+7 DAYS
+
+Day 1:
+ML fundamentals
+
+Day 2:
+Model evaluation
+
+Day 3:
+Kaggle practice
+
+Day 4:
+Classification project
+
+Day 5:
+Improve model
+
+Day 6:
+Documentation + deployment
+
+Day 7:
+Assessment
+
+Show progress.
+
+==================================================
+14. RESOURCE RECOMMENDATIONS
+==================================================
+
+For each skill show:
+
+Recommended resource
+Why it matches
+Difficulty
+Duration
+Cost
+Practicality
+Official/Trusted indicator
+
+Examples:
+
+Google ML Crash Course
+Kaggle Learn
+Microsoft Learn
+MDN
+GitHub Skills
+Hugging Face
+freeCodeCamp
+AWS Skill Builder
+
+Add:
+
+“Open Resource →”
+
+==================================================
+15. QUICK REFERENCE
+==================================================
+
+Create:
+
+“15-Minute Interview Sprint”
+
+For every skill:
+
+Key Concepts
+Important Syntax
+Common Mistakes
+Interview Questions
+Practical Questions
+Cheat Sheet
+Official Documentation
+
+==================================================
+16. PRACTICE PAGE
+==================================================
+
+Show practical assignments.
+
+Example:
+
+BUILD:
+Customer Churn Prediction Model
+
+Requirements:
+
+Data cleaning
+Feature processing
+Train/test split
+Model
+Evaluation
+Confusion matrix
+README
+GitHub
+
+Button:
+
+“Start Challenge”
+
+Progress:
+
+0 / 7 requirements
+
+==================================================
+17. ASSESSMENT PAGE
+==================================================
+
+Generate role-specific assessments.
+
+Types:
+
+MCQ
+Scenario
+Concept
+Coding
+Practical
+
+Show:
+
+Score
+Weak areas
+Strong areas
+Next recommended action
+
+Do not treat MCQ score alone as practical proof.
+
+==================================================
+18. EVIDENCE PAGE
+==================================================
+
+Central concept:
+
+“Don't just claim a skill. Prove it.”
+
+For each skill show evidence:
+
+Resume
+GitHub
+Project
+Certification
+Assessment
+Practical Assignment
+
+Example:
+
+Python
+
+Resume ✓
+GitHub ✓
+Project ✓
+Assessment ✓
+Practical ✓
+
+Status:
+
+DEMONSTRATED
+
+==================================================
+19. OPPORTUNITY TRACKER
+==================================================
+
+Users can save opportunities.
+
+Show:
+
+Company
+Role
+Deadline
+Source
+Requirements
+Readiness
+Last analyzed
+
+Allow:
+
+Analyze
+Reanalyze
+Compare changes
+
+If requirements change:
+
+“2 new requirements detected.”
+
+==================================================
+20. OPPORTUNITY COMPARISON
+==================================================
+
+Allow users to compare their profile against multiple opportunities.
+
+Example:
+
+Opportunity A
+Opportunity B
+Opportunity C
+
+Show:
+
+Common requirements
+Unique requirements
+Current evidence
+Missing skills
+
+Do NOT rank which opportunity they should choose.
+
+==================================================
+21. PROGRESS JOURNEY
+==================================================
+
+Create a visual timeline:
+
+PROFILE
+↓
+ANALYZED
+↓
+GAPS FOUND
+↓
+LEARNING
+↓
+PRACTICING
+↓
+PROVING
+↓
+REASSESSED
+
+Use animations when moving between stages.
+
+==================================================
+22. TRANSITIONS
+==================================================
+
+Use a consistent “portal journey” transition system.
+
+Landing → Sign Up:
+Student moves toward portal.
+
+Sign Up → Onboarding:
+Portal opens.
+
+Onboarding → Profile:
+Dark environment becomes brighter.
+
+Profile → Dashboard:
+UI cards assemble around the student.
+
+Dashboard → Skill Gap:
+Skill nodes separate into:
+Strong / Partial / Missing.
+
+Gap → Learning:
+Missing skill transforms into learning path.
+
+Learning → Practice:
+Course/resource card transforms into project card.
+
+Practice → Evidence:
+Project transforms into proof/evidence.
+
+Evidence → Assessment:
+Evidence enters verification animation.
+
+Assessment → Reassessment:
+Progress ring fills.
+
+Reassessment → Ready:
+Portal opens into bright environment.
+
+Use:
+• Fade
+• Slide
+• Scale
+• Blur
+• Glow
+• Morphing cards
+• Shared-layout transitions
+• Scroll-triggered animations
+• Staggered cards
+• Number counters
+• Progress animations
+
+Animations must remain fast and smooth.
+
+==================================================
+23. GLOBAL NAVIGATION
+==================================================
+
+Sidebar after login:
+
+Overview
+Profile
+Opportunities
+Skill Gaps
+Learning
+Resources
+Practice
+Assessments
+Evidence
+GitHub
+Resume
+Quick Reference
+Progress
+Settings
+
+Top bar:
+
+Search
+Notifications
+Opportunity selector
+Profile avatar
+
+==================================================
+24. EXTRA TOOLS / INTEGRATIONS
+==================================================
+
+Design the architecture so these can be integrated:
+
+GitHub
+Resume parser
+Google Drive
+LinkedIn profile/manual import
+Portfolio URL
+GitHub repositories
+Certification links
+Project live URLs
+Coding platforms
+Documentation
+Learning resources
+
+Only use data that the user explicitly provides or integrations legitimately expose.
+
+Do not scrape private accounts.
+
+==================================================
+25. AI ANALYSIS PIPELINE
+==================================================
+
+USER DATA
+↓
+Resume Parser
+↓
+GitHub Analyzer
+↓
+Project Analyzer
+↓
+Skill Extraction
+↓
+Skill Normalization
+↓
+Opportunity Analyzer
+↓
+Requirement Extraction
+↓
+Semantic Matching
+↓
+Evidence Engine
+↓
+Gap Detection
+↓
+Priority Engine
+↓
+Learning Engine
+↓
+Practice Engine
+↓
+Assessment Engine
+↓
+Reassessment
+↓
+Updated Opportunity Readiness
+
+==================================================
+26. SKILL STATUS SYSTEM
+==================================================
+
+Use:
+
+CLAIMED
+Student says they know it.
+
+DETECTED
+Found in profile/resume/project.
+
+TESTED
+Assessment supports knowledge.
+
+DEMONSTRATED
+Practical evidence proves ability.
+
+This distinction is one of the most important features of SkillGap AI.
+
+==================================================
+27. GAP TYPES
+==================================================
+
+SKILL GAP:
+Student lacks required knowledge.
+
+EVIDENCE GAP:
+Student may know it but has insufficient proof.
+
+READINESS GAP:
+Student knows concepts but needs practical ability.
+
+Clearly explain each.
+
+==================================================
+28. ERROR HANDLING
+==================================================
+
+Handle:
+
+Invalid resume
+Scanned PDF
+Empty resume
+GitHub unavailable
+Private repository
+Invalid GitHub URL
+Invalid job URL
+No requirements detected
+AI failure
+Network failure
+Resource unavailable
+Assessment generation failure
+
+Never invent information.
+
+Use helpful fallback UI.
+
+==================================================
+29. RESPONSIVE DESIGN
+==================================================
+
+Perfectly support:
+
+Desktop
+Laptop
+Tablet
+Mobile
+
+On mobile:
+
+Portal animation remains visible but simplified.
+
+Dashboard cards become vertical.
+
+Sidebar becomes bottom navigation/menu.
+
+==================================================
+30. DESIGN LANGUAGE
+==================================================
+
+Use:
+
+Premium typography
+Large expressive headings
+Gradient text
+Subtle glass cards
+Rounded corners
+Soft shadows
+Thin borders
+Dark/light theme
+Deep blue/purple/cyan accents
+Clean white space
+
+Avoid excessive neon.
+
+Make it feel:
+
+Futuristic
+Intelligent
+Trustworthy
+Professional
+Student-focused
+Premium
+
+==================================================
+31. MICRO-INTERACTIONS
+==================================================
+
+Buttons:
+Magnetic hover + subtle glow
+
+Cards:
+Lift slightly on hover
+
+Progress:
+Animated filling
+
+Skills:
+Interactive nodes
+
+Resources:
+Hover preview
+
+Projects:
+Expand on click
+
+Dashboard:
+Animated counters
+
+Upload:
+Drag-and-drop animation
+
+GitHub:
+Repository scan animation
+
+AI analysis:
+Scanning particles + progress stages
+
+==================================================
+32. LOADING EXPERIENCE
+==================================================
+
+Never show a blank loading screen.
+
+Example:
+
+“Scanning your profile…”
+
+“Extracting skills…”
+
+“Analyzing GitHub…”
+
+“Matching opportunity requirements…”
+
+“Checking evidence…”
+
+“Building your learning path…”
+
+“Preparing your readiness report…”
+
+Then show results.
+
+==================================================
+33. EMPTY STATES
+==================================================
+
+Examples:
+
+No GitHub connected:
+“Your GitHub can become powerful skill evidence.
+Connect it to analyze your projects.”
+
+No opportunity:
+“Add an opportunity to discover what skills actually matter.”
+
+No projects:
+“Projects turn knowledge into evidence.
+Add your first project.”
+
+==================================================
+34. SECURITY
+==================================================
+
+• Never expose API keys
+• Validate uploads
+• Sanitize inputs
+• Protect user data
+• Do not access private GitHub data without authorization
+• Do not fabricate user information
+• Keep AI credentials server-side
+
+==================================================
+35. HACKATHON MVP
+==================================================
+
+The most important working flow:
+
+LANDING
+↓
+SIGN UP
+↓
+ONBOARDING
+↓
+PROFILE
+↓
+UPLOAD RESUME
+↓
+CONNECT GITHUB
+↓
+ADD JOB DESCRIPTION
+↓
+AI ANALYSIS
+↓
+SKILL GAP
+↓
+EVIDENCE GAP
+↓
+TOP 3 PRIORITIES
+↓
+LEARNING PLAN
+↓
+FREE RESOURCES
+↓
+PRACTICAL PROJECT
+↓
+ASSESSMENT
+↓
+PROOF
+↓
+UPDATED READINESS
+
+Make this complete flow functional.
+
+Use realistic demo data when external APIs are unavailable.
+
+==================================================
+36. FINAL VISUAL MESSAGE
+==================================================
+
+The final website should visually communicate:
+
+BEFORE:
+
+“I don't know what I need.”
+
+“I don't know what I'm missing.”
+
+“I don't know what to learn.”
+
+“I don't know how to prove it.”
+
+↓
+
+SKILLGAP AI
+
+↓
+
+AFTER:
+
+“I know what matters.”
+
+“I know what I'm missing.”
+
+“I know what to learn.”
+
+“I built it.”
+
+“I proved it.”
+
+“I am more prepared.”
+
+Final CTA:
+
+“Enter the Portal →”
+
+Secondary:
+
+“See My Readiness →”
+
+FINAL TAGLINE:
+
+“Know. Learn. Build. Prove. Get Ready.”
+
+==================================================
+
+IMPORTANT DEVELOPMENT REQUIREMENT:
+
+Do not build a static mockup.
+
+Build functional interactions wherever possible.
+
+Every major button should navigate somewhere meaningful.
+
+Use realistic data and complete UI states.
+
+Prioritize visual quality, smooth transitions, responsive design, accessibility, performance, and a coherent portal transformation story.
+
+The website must look extraordinary within the first 5 seconds.
+
+The landing page should immediately communicate the transformation:
+
+CONFUSED STUDENT
+→
+SKILLGAP AI PORTAL
+→
+CONFIDENT, SKILLED, PROJECT-BACKED STUDENT

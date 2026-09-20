@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+@import 'tailwindcss';
+@import 'tw-animate-css';
+@plugin "@tailwindcss/typography";
+@custom-variant dark (&:is(.dark *));
+@theme inline {
+  --color-background: hsl(var(--background)); --color-foreground: hsl(var(--foreground));
+  --color-border: hsl(var(--border)); --color-input: hsl(var(--input)); --color-ring: hsl(var(--ring));
+  --color-card: hsl(var(--card)); --color-card-foreground: hsl(var(--card-foreground)); --color-card-border: hsl(var(--card-border));
+  --color-primary: hsl(var(--primary)); --color-primary-foreground: hsl(var(--primary-foreground));
+  --color-secondary: hsl(var(--secondary)); --color-secondary-foreground: hsl(var(--secondary-foreground));
+  --color-muted: hsl(var(--muted)); --color-muted-foreground: hsl(var(--muted-foreground));
+  --color-accent: hsl(var(--accent)); --color-accent-foreground: hsl(var(--accent-foreground));
+  --font-sans: var(--app-font-sans); --font-mono: var(--app-font-mono); --radius-lg: var(--radius);
+}
+:root {
+  --background: 228 32% 7%; --foreground: 220 30% 94%; --border: 222 22% 18%; --input: 222 22% 18%;
+  --card: 228 28% 10%; --card-foreground: 220 30% 94%; --card-border: 222 24% 19%;
+  --popover: 228 28% 11%; --popover-foreground: 220 30% 94%; --primary: 191 92% 63%; --primary-foreground: 226 40% 8%;
+  --secondary: 230 22% 16%; --secondary-foreground: 220 30% 88%; --muted: 225 19% 15%; --muted-foreground: 220 15% 62%;
+  --accent: 263 78% 70%; --accent-foreground: 228 40% 8%; --destructive: 0 70% 58%; --destructive-foreground: 0 0% 100%;
+  --ring: 191 92% 63%; --chart-1: 191 92% 63%; --chart-2: 263 78% 70%; --chart-3: 155 67% 58%; --chart-4: 42 88% 64%; --chart-5: 343 76% 66%;
+  --sidebar: 229 35% 6%; --sidebar-foreground: 220 30% 94%; --sidebar-border: 222 24% 16%; --sidebar-primary: 191 92% 63%; --sidebar-primary-foreground: 228 40% 8%; --sidebar-accent: 230 24% 13%; --sidebar-accent-foreground: 220 30% 94%; --sidebar-ring: 191 92% 63%;
+  --app-font-sans: 'Manrope', sans-serif; --app-font-mono: 'DM Mono', monospace; --radius: .75rem;
+}
+* { box-sizing: border-box; }
+html { background: #080a13; }
+body { margin: 0; background: #080a13; color: hsl(var(--foreground)); font-family: var(--app-font-sans); }
+button, input, textarea, select { font: inherit; }
+button, a { -webkit-tap-highlight-color: transparent; }
+.display { font-family: 'Space Grotesk', sans-serif; }
+.mono { font-family: var(--app-font-mono); }
+.portal-bg { background: radial-gradient(ellipse at 68% 12%, rgba(63, 119, 210, .18), transparent 35%), radial-gradient(ellipse at 15% 70%, rgba(119, 66, 192, .11), transparent 34%), #080a13; }
+.grid-lines { background-image: linear-gradient(rgba(125,147,184,.045) 1px, transparent 1px), linear-gradient(90deg, rgba(125,147,184,.045) 1px, transparent 1px); background-size: 52px 52px; }
+.glass { background: rgba(16, 20, 37, .72); border: 1px solid rgba(139, 159, 202, .15); box-shadow: 0 20px 70px rgba(0,0,0,.2); backdrop-filter: blur(18px); }
+.text-gradient { background: linear-gradient(105deg, #f4f7ff 12%, #90e9fa 48%, #b99dfd 86%); -webkit-background-clip: text; color: transparent; }
+.orb { box-shadow: inset 0 0 36px rgba(151, 233, 255, .4), 0 0 35px rgba(79, 192, 239, .22), 0 0 110px rgba(113, 82, 218, .22); }
+.orb-ring { border: 1px solid rgba(139, 225, 250, .25); box-shadow: 0 0 24px rgba(93, 192, 240, .13); }
+.noise:after { content: ''; position: fixed; inset: 0; opacity: .025; pointer-events: none; background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 160 160' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='.35'/%3E%3C/svg%3E"); }
+.animate-float { animation: float 7s ease-in-out infinite; }
+.animate-pulse-soft { animation: pulseSoft 3.4s ease-in-out infinite; }
+@keyframes float { 50% { transform: translateY(-12px); } }
+@keyframes pulseSoft { 50% { opacity: .55; transform: scale(1.04); } }
+@keyframes enter { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+.enter { animation: enter .6s ease both; }
+::-webkit-scrollbar { width: 8px; height: 8px; } ::-webkit-scrollbar-track { background: transparent; } ::-webkit-scrollbar-thumb { background: #252b45; border-radius: 99px; }
+@media (max-width: 700px) { .mobile-hide { display: none; } .grid-lines { background-size: 34px 34px; } }
